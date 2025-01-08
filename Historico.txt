@@ -1,0 +1,10 @@
+2021234863-Compra Bar:0.50
+2021563287-Compra Repografia:0.50
+2021234863-Carregamento:12.00
+2021234863-Compra Bar:0.60
+2021230244-Carregamento:10.00
+2021234863-Transferencia Efetuada:2.60
+2021230244-Transferencia Recebida:2.60
+2021234863-Compra Bar:0.65
+2021230244-Compra Bar:1.60
+2021234863-Compra Bar:1.00
